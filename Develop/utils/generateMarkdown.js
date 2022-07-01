@@ -21,7 +21,7 @@ export function generateMarkdown(data) {
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Testing](#testing)
-  - [Additional Info](#additional-info)
+  - [Questions?](#additional-info)
 
   ## Description:
   ${data.description}
